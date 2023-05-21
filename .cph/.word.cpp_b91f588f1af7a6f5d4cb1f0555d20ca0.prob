@@ -1,0 +1,1 @@
+{"name":"Local: word","url":"c:\\Users\\Asus\\Desktop\\CP\\word.cpp","tests":[{"id":1675536437204,"input":"HoUse\n","output":""},{"id":1675536465599,"input":"maTRIx","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Desktop\\CP\\word.cpp","group":"local","local":true}

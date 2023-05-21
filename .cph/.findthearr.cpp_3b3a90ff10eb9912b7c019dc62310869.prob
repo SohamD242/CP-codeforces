@@ -1,0 +1,1 @@
+{"name":"Local: findthearr","url":"c:\\Users\\Asus\\Desktop\\CP\\findthearr.cpp","tests":[{"id":1678720389207,"input":"4\n1\n8\n7\n42\n","output":"1\n3\n3\n7\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Desktop\\CP\\findthearr.cpp","group":"local","local":true}

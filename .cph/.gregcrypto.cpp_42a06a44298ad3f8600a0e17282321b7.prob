@@ -1,0 +1,1 @@
+{"name":"Local: gregcrypto","url":"c:\\Users\\Asus\\Desktop\\CP\\gregcrypto.cpp","tests":[{"id":1680213780918,"input":"2\n17\n5\n","output":"3 5\n2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Desktop\\CP\\gregcrypto.cpp","group":"local","local":true}

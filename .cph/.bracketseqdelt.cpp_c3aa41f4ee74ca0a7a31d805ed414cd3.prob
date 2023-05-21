@@ -1,0 +1,1 @@
+{"name":"Local: bracketseqdelt","url":"c:\\Users\\Asus\\Desktop\\CP\\bracketseqdelt.cpp","tests":[{"id":1678114659460,"input":"5\n2\n()\n3\n())\n4\n((((\n5\n)((()\n6\n)((()(","output":"1 0\n1 1\n2 0\n1 0\n1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Desktop\\CP\\bracketseqdelt.cpp","group":"local","local":true}

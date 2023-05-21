@@ -1,0 +1,1 @@
+{"name":"Local: username","url":"c:\\Users\\Asus\\Desktop\\CP\\username.cpp","tests":[{"id":1677937391663,"input":"5\n100 50 200 150 200","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Desktop\\CP\\username.cpp","group":"local","local":true}

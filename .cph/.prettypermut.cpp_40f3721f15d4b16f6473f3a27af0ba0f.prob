@@ -1,0 +1,1 @@
+{"name":"Local: prettypermut","url":"c:\\Users\\Asus\\Desktop\\CP\\prettypermut.cpp","tests":[{"id":1680935433809,"input":"3\n2\n3\n5","output":"2 1 \n3 1 2\n2 1 5 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Desktop\\CP\\prettypermut.cpp","group":"local","local":true}

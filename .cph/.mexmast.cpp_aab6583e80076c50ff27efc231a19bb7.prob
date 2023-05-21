@@ -1,0 +1,1 @@
+{"name":"Local: mexmast","url":"c:\\Users\\Asus\\Desktop\\CP\\mexmast.cpp","tests":[{"id":1679145980321,"input":"1\n6\n0 0 0 0 1 1 ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Desktop\\CP\\mexmast.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ordinarynos","url":"c:\\Users\\Asus\\Desktop\\CP\\ordinarynos.cpp","tests":[{"id":1680297543071,"input":"6\n1\n2\n3\n4\n5\n100\n","output":"1\n2\n3\n4\n5\n18\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Desktop\\CP\\ordinarynos.cpp","group":"local","local":true}

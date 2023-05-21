@@ -1,0 +1,1 @@
+{"name":"Local: wordcap","url":"c:\\Users\\Asus\\Desktop\\CP\\wordcap.cpp","tests":[{"id":1678739782411,"input":"ApPLe\n","output":"ApPLe\n"},{"id":1678739822983,"input":"konjac\n","output":"Konjac\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Desktop\\CP\\wordcap.cpp","group":"local","local":true}

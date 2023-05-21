@@ -1,0 +1,1 @@
+{"name":"Local: stringtarget","url":"c:\\Users\\Asus\\Desktop\\CP\\stringtarget.cpp","tests":[{"id":1680450570420,"input":"4\n3\ncba\n4\nacac\n5\nabbcb\n4\naaba","output":"acb\naacc\nabbcb\naaab"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Desktop\\CP\\stringtarget.cpp","group":"local","local":true}
